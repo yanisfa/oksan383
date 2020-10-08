@@ -1,0 +1,23 @@
+.age-consider{
+    font-size: 7vw;
+    text-align: center;
+}
+
+.link-to{
+    text-align: center;
+    color: white;
+    background: #f44336;
+    font-size: 7vw;
+    padding: 15px 15px;
+    border-radius: 10px;
+    border: 1px solid orangered;
+}
+
+.link-to:hover{
+    color: #f44336;
+    background: white;
+}
+
+.link-cover{
+    text-align: center;
+}
